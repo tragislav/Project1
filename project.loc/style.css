@@ -1,0 +1,27 @@
+.form-signin {
+    max-width: 40%;
+    padding: 5%;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+    border: 1px solid grey; /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+    }
+
+th, td {
+    border: 1px solid grey;
+}
+
+.a {
+    width: 60%;
+}
+
+.b {
+    width: 40%;
+}
+
+.c {
+    text-align: center;
+    width: 10%;
+}
